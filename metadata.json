@@ -1,0 +1,5 @@
+{
+  "name": "React Rube Goldberg Machine",
+  "description": "A web application that simulates a 10-step Rube Goldberg machine using a simplified physics model. It visualizes the marble's movement on a canvas and provides real-time physical data, including velocity, height, and collision events.",
+  "requestFramePermissions": []
+}
